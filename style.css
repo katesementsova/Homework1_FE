@@ -1,0 +1,49 @@
+h1, .hobby, .work, .fam {
+    text-align: center;
+    font-style: oblique;
+    color: rgb(229, 167, 176);
+background: rgba(48, 35, 44, 0.5);
+margin: 10px;
+padding: 5px;
+}
+
+body {
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: repeat-x;
+}
+
+.hobby .travel, .sport, .cooking {
+    color: rgb(245, 226, 251);
+    background: rgba(44, 200, 243, 0.5);
+    border: 1px, solid, rgb(66, 63, 63);
+
+}
+.work .comamed, .telran, .mama {
+    color: rgb(245, 226, 251);
+    background: rgba(44, 200, 243, 0.5);
+    border: 1px, solid, rgb(66, 63, 63);
+}
+
+.fam .family, .friends {
+    color: rgb(245, 226, 251);
+    background: rgba(44, 200, 243, 0.5);
+    border: 1px, solid, rgb(66, 63, 63);
+}
+.travel img, .sport img, .cooking img, .comamed img, .telran img, .mama img, .family img, .friends img {
+width: 200px;
+}
+
+.socialmedia {
+
+border: 1px black solid;
+margin: 10px;
+padding: 5px;
+text-align: center;
+background-color: beige;
+}
+
+.socialmedia img {
+width: 20px;}
+
+
